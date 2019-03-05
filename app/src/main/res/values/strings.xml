@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">ASimpleGame(徐浩_CQU20161730)</string>
+    <string name="game_time">TIME LEFT：</string>
+    <string name="lost">Lost</string>
+    <string name="lost_restart">FAILED! RETRY</string>
+    <string name="dialog_sure">OK</string>
+    <string name="success">SUCCESS</string>
+    <string name="success_restart">WIN! RESTART</string>
+    <string name="remaining_time">TIME LEFT:%1$d</string>
+</resources>
